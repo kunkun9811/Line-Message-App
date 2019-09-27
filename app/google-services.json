@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1037438842001",
+    "firebase_url": "https://linemessageapp.firebaseio.com",
+    "project_id": "linemessageapp",
+    "storage_bucket": "linemessageapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037438842001:android:adb6214c785872c67a3b30",
+        "android_client_info": {
+          "package_name": "com.timo.linemessageapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1037438842001-ajjovoin0vdra6fa5eou980l2istqkgf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.timo.linemessageapp",
+            "certificate_hash": "65eb2c492c4879ed61eb24a6383cbce3d39392c7"
+          }
+        },
+        {
+          "client_id": "1037438842001-8qkf95v1ss3gsg43ao0vanmohemsc92g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRq-p0iR6wX6p9GvXcOacg7OUweTlXQjQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1037438842001-8qkf95v1ss3gsg43ao0vanmohemsc92g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
